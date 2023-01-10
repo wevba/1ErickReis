@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickreiss_/)
 
 ![Erick Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=1ErickReis&show_icons=true&theme=tokyonight)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ErickReis&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ErickReis&layout=compact&langs_count=7&theme=tokyonight"/>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que uso 
 <div style="display: inline_block"><br>
@@ -20,7 +21,7 @@
 <img align="center" alt=" " height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
  
 
