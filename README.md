@@ -4,9 +4,13 @@
 <a href = "mailto:ericksreiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickreiss_/)
 
-![Erick Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=1ErickReis&show_icons=true&theme=tokyonight)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ErickReis&layout=compact&langs_count=7&theme=tokyonight"/>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br>
+<img height="195em" width="500em" src="https://github-readme-stats.vercel.app/api?username=1ErickReis&show_icons=true&theme=tokyonight"/>
+<img height="195em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ErickReis&layout=compact&langs_count=7&theme=tokyonight"/>
+ </div>
+<br>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que uso 
 <div style="display: inline_block"><br>
