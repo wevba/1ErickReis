@@ -1,4 +1,4 @@
-### Olá, eu sou o Erick Reis 🤟
+### Olá, sou o Erick Reis 🤟
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-reis-4106291ba)
 <a href = "mailto:ericksreiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
